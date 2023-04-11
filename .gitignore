@@ -1,0 +1,4 @@
+*.dev
+logs/
+notes/
+temp_data/
